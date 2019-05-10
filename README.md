@@ -5,6 +5,6 @@ NumCounter is my first Project in Flutter .
 2. Flutter
 3. Genymotion
 # Use :
-..* First Your just Create a Flutter App
-..* Replace Files
-..* and Run App , Enjoy 😃🤞
+1. First Your just Create a Flutter App
+2. Replace Files
+3. Run App , Enjoy 😃🤞
